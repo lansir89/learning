@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1779.html" rel="bookmark">致富思路</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6364"></nbcache><script type="text/javascript">$("#nbcache6364").attr("id","nbcache6364"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2087,6364,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年08月27日 07:19 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>一个哥们：4块钱白手起家，买了8根棒棒糖到幼儿园骗了4个小孩，卖给了人贩子，赚了15000。拿出了1000找了个小姐，下了安眠药，取其肾，赚了22万。通过黑道买了防弹衣，冲锋枪，子弹，手雷，花了15万。持冲锋，手雷去抢银行，获利600万。因见一老太太摔倒，上去扶了一把。@Mr秦鑫</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6364">2</ins></span><span class="diggDn">踩: <ins data-digg="6364">1</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1779.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

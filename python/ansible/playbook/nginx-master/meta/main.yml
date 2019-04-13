@@ -1,0 +1,26 @@
+---
+galaxy_info:                    #这个不是依赖，而是这个脚本作者和脚本环境的相关信息
+  author: "Benno Joy"
+  company: AnsibleWorks
+  license: BSD
+  min_ansible_version: 1.4
+  platforms:
+   - name: EL
+     versions:
+      - 5
+      - 6
+   - name: Fedora
+     versions:
+      - 16
+      - 17
+      - 18
+   - name: Ubuntu
+     versions:
+      - precise
+      - quantal
+      - raring
+      - saucy
+  categories:
+   - web
+dependencies: []                #这个才是依赖信息
+  

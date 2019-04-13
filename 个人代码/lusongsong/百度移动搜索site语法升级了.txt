@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/8667.html" rel="bookmark">百度移动搜索site语法升级了</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache8667"></nbcache><script type="text/javascript">$("#nbcache8667").attr("id","nbcache8667"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1087,8667,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年04月02日 10:28 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>刚刚<a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>发布公告称：百度移动搜索的SITE语法升级了，在三月中旬已经上线!</p><p><a href="http://lusongsong.com/blog/post/435.html" target="_blank">百度site语法</a>查询一直是站长们关心的问题，随着pc端与移动端网站的融合，原有索引量数据的展现逻辑已经不足以满足用户的需求，所以在三月百度对移动的搜索语法进行了升级。</p><p>1、移动端增加site语法卡片，直观展示网站在移动端的索引量;</p><p style="text-align: center;"><img alt="百度移动搜索site语法升级了 微新闻" title="百度移动搜索site语法升级了 微新闻" src="http://images.lusongsong.com/zb_users/upload/2017/04/201704019882_667.jpg"></p><p>2、移动端site语法与站长平台的索引量工具打平，保证统计方式和统计数量的一致性;</p><p>3、移动端增加适配索引量，通过pc适配过来的移动url也可以通过site或者搜索url进行展现;</p><p>这已经不是百度第一次对site标签进行调整了，之前是对site语法展示区进行调整，官方logo可在多处展示</p><p>这次改动也是为了迎合移动互联的发展!</p><blockquote><p>相关阅读：</p><p><a href="http://lusongsong.com/blog/post/1301.html" target="_blank">百度site语法升级：官方logo可在多处展示</a></p><p><a href="http://lusongsong.com/blog/post/435.html" target="_blank">百度回应关于site语法查询问题 大部分网站收录将回升</a></p></blockquote><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="8667">0</ins></span><span class="diggDn">踩: <ins data-digg="8667">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/8667.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/37.html" rel="bookmark">卖水果哲学</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4622"></nbcache><script type="text/javascript">$("#nbcache4622").attr("id","nbcache4622"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1354,4622,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2011年12月04日 10:57 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>“有一个投行菜鸟问，什么是投行？”前辈拿了一些烂水果问他：“你打算怎么把这些水果卖出去？” 菜鸟想了半天说：“我按照市场价打折处理掉。” 这位前辈摇头，拿起一把水果刀，把烂水果去皮切块，弄个漂亮的水果拼盘：“这样，按照几十倍的价格卖掉”</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4622">0</ins></span><span class="diggDn">踩: <ins data-digg="4622">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/37.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

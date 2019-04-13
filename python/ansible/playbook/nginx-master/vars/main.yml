@@ -1,0 +1,13 @@
+---
+
+env:    
+ RUNLEVEL: 1        #在散列表中使用散列表。设置运行级别为1
+
+redhat_pkg:         #在散列表中使用数组
+  - nginx
+
+ubuntu_pkg:
+  - python-selinux
+  - nginx
+
+  

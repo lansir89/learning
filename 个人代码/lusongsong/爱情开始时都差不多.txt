@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1752.html" rel="bookmark">爱情开始时都差不多</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6337"></nbcache><script type="text/javascript">$("#nbcache6337").attr("id","nbcache6337"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1914,6337,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年07月31日 10:08 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>爱情开始时都差不多。但当两个人平淡到左手牵右手时，是加班挤地铁还房贷然后给他农村父母寄钱假期在屋里大眼瞪小眼，还是开小车朝九晚五住大房子周末采购装点自己的小家出国旅游，区别就非常大了。 </p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6337">0</ins></span><span class="diggDn">踩: <ins data-digg="6337">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1752.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

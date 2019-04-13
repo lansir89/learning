@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/9282.html" rel="bookmark">怎样才算程序猿的思维方式</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache9282"></nbcache><script type="text/javascript">$("#nbcache9282").attr("id","nbcache9282"+nbcacheviewtemp);Nobird_Cache_AddViewNums(134,9282,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年09月04日 10:02 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>我们来看下面的例子：</p><p><strong>问题一：</strong></p><p>现在有一个水龙头，一个空水桶和一个着了火的草垛。</p><p>我们应该怎么扑灭草垛上的火?</p><p>程序员答：把水桶里面装满水，然后去扑灭草垛上的火。</p><p><strong>问题二：</strong></p><p>现在有一个水龙头，一个装满水的水桶和一个着了火的草垛。</p><p>我们应该怎么扑灭草垛上的火?</p><p>普通人答：用装满水的水桶直接灭火。</p><p>程序员答：把水桶倒空，然后就可以用问题一的解决方案。</p><p><strong>问题三：</strong></p><p>现在有一个水龙头，一个装满水的水桶和一个草垛。</p><p>我们应该怎么办?</p><p>程序员答：点火，然后用问题一的解决方案。</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="9282">1</ins></span><span class="diggDn">踩: <ins data-digg="9282">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/9282.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

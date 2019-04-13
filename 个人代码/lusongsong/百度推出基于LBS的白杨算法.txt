@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/1127.html" rel="bookmark">百度推出基于LBS的白杨算法</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache2799"></nbcache><script type="text/javascript">$("#nbcache2799").attr("id","nbcache2799"+nbcacheviewtemp);Nobird_Cache_AddViewNums(3358,2799,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年12月03日 17:57 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p><a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>移动搜索对用户的行为研究发现， 用户在移动搜索的行为开始表现出来对于本地或附近结果的强烈需求，餐饮娱乐、服务、生活信息等需求下，用户更倾向于选择当地站点。</p><p>为更好满足用户地域化需求， 也更好扶持各种地方特色类站点， 百度移动搜索推出白杨算法，对符合百度地域优化标准的优质站点进行优先展现。</p><p><strong>白杨算法的效果：</strong></p><p>(1) 排序优化：本地信息靠前</p><p>(2) 地域明确化： 城市信息前置</p><p style="text-align: center;"><img alt="百度推出基于LBS的白杨算法 微新闻" title="百度推出基于LBS的白杨算法 微新闻" src="http://images.lusongsong.com/upload/blog/1127.jpg" width="480" height="357" alti="百度 白杨算法"></p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="2799">0</ins></span><span class="diggDn">踩: <ins data-digg="2799">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/1127.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/178.html" rel="bookmark">搜狐编辑遇车祸成植物人，新浪将他唤醒</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4763"></nbcache><script type="text/javascript">$("#nbcache4763").attr("id","nbcache4763"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1771,4763,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2011年12月16日 14:16 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>搜狐编辑陈某遭遇车祸成植物人，医生说活下来希望只有万分之一，唤醒更为渺茫。他的Leader和亲人没放弃，他们根据陈xx视工作如命的作风，每天都在他身边念：“新浪又出错啦！”奇迹发生，陈醒来，第一句话：截屏了么？（@小希快跑）</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4763">0</ins></span><span class="diggDn">踩: <ins data-digg="4763">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/178.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/945.html" rel="bookmark">中国人为什么对GFW愤怒</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5530"></nbcache><script type="text/javascript">$("#nbcache5530").attr("id","nbcache5530"+nbcacheviewtemp);Nobird_Cache_AddViewNums(3791,5530,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年02月01日 20:43 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>Facebook上有一款应用叫“Bang With Friends”。登陆后，会出现你的异性朋友列表，然后选“想啪啪”。如果对方也使用这个app同时也选择了你，你们就会受到一封私信，然后你们就可以啪啪啪了。知道网络上的中国人为什么对GFW这么愤怒了吗？@xie107</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5530">3</ins></span><span class="diggDn">踩: <ins data-digg="5530">7</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/945.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

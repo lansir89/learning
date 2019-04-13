@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/403.html" rel="bookmark">Google开始接受付费搜索</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache2075"></nbcache><script type="text/javascript">$("#nbcache2075").attr("id","nbcache2075"+nbcacheviewtemp);Nobird_Cache_AddViewNums(3669,2075,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年05月31日 16:42 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>据cnbeta报道，谷歌已经开始接受付费搜索了，目前对航班、酒店和金融产品方面的搜索结果进行排序，下图可以看到做过升级改变的搜索条目边上显示”赞助“二字。这意味着谷歌开始接受付费搜索，而之前谷歌一直是排斥付费搜索的。在金钱面前任何公司都是差不多。</p><p style="text-align: center;"><img alt="Google开始接受付费搜索 微新闻" title="Google开始接受付费搜索 微新闻" src="http://images.lusongsong.com/upload/blog/403.gif"></p><p>这一改动将使Google一年多收入一亿三千万美元，全球一年多收入两亿五千万美元广告费。这么点钱对Google来说其实不算什么，但也许又会触动监管机构的神经，因为他们在将越来越多的广告塞入到自然搜索结果里。今秋开始，谷歌美国用户的产品搜索结果将受到商家广告投放的影响。以往，谷歌产品搜索结果完全基于相关性，并且免费。今后，“谷歌产品搜索”将被命名为“谷歌购物”。实质上是谷歌的竞价排名？</p><p>据谷歌公司说明，如果是一个直接的广告，那么内容的排版等各个方面都将由广告商全权处理。但如果是带有”赞助“二字的搜索条目的话，那么谷歌公司就有权利决定这些内容将如何排版。至于其他方面会不会也加入进来还不得而知。但是，谷歌的这一举措真真切切的让我们看到了一家公司其核心价值观的变化。</p><p> </p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="2075">0</ins></span><span class="diggDn">踩: <ins data-digg="2075">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/403.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

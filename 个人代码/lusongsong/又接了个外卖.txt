@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/9270.html" rel="bookmark">又接了个外卖</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache9270"></nbcache><script type="text/javascript">$("#nbcache9270").attr("id","nbcache9270"+nbcacheviewtemp);Nobird_Cache_AddViewNums(289,9270,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年09月02日 14:18 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>我花了1年6个月时间4万块钱培训了JAVA开发 ，刚培训完两个星期我就收到了美团网的offer。我承认我不是班里学习最好的，但我却是班里第一个找到工作的；而且还是个大厂我一直相信勤能补拙，只要有决心什么事都是可以做到的。今天入职一个星期了，公司的人对我都很好，还给我配了电动车和头盔还有大衣。不说了又接了个外卖。</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="9270">7</ins></span><span class="diggDn">踩: <ins data-digg="9270">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/9270.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

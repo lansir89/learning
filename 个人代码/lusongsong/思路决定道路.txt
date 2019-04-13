@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/593.html" rel="bookmark">思路决定道路</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5178"></nbcache><script type="text/javascript">$("#nbcache5178").attr("id","nbcache5178"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1440,5178,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年07月23日 23:09 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 1）打工的：这不太可能吧？<a title="创业" href="http://lusongsong.com/tags/chuangye.html" target="_blank" class="keywordlink">创业</a>的：一切皆有可能！2）打工的：没办法，老板逼的；创业的：没办法，自己逼的！3）打工的：算了吧，明天再说；创业的：快回来，今天干完！4）打工的：别别别，出了问题我担当不起；创业的：上上上，如果闯祸我来负责！6）打工的：不行；创业的：我看行！<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5178">0</ins></span><span class="diggDn">踩: <ins data-digg="5178">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/593.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

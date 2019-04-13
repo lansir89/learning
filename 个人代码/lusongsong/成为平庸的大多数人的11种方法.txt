@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/859.html" rel="bookmark">成为平庸的大多数人的11种方法</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5444"></nbcache><script type="text/javascript">$("#nbcache5444").attr("id","nbcache5444"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2182,5444,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年12月24日 14:11 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 【1】活在别人的评价里【2】从来不质疑权威【3】读大学只是觉得该去读了，而不是想学点什么【4】工作？每周在同一张桌前坐上40小时，假装做着什么【5】一辈子去过一两次其他国家，而且都是“舒适而安全”的地方【6】申请最高额度的按揭，然后花上30年去还它【7】从来不会想去学习一门其他语言【8】想写本书什么的，但一直没动笔【9】憧憬过开始自己的事业，但仅仅是憧憬过【10】从来不杰出，也没想过自己受到注意【11】这里埋葬着一个平庸的大多数<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5444">1</ins></span><span class="diggDn">踩: <ins data-digg="5444">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/859.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/1418.html" rel="bookmark">百度上线JS自动推送工具</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache3090"></nbcache><script type="text/javascript">$("#nbcache3090").attr("id","nbcache3090"+nbcacheviewtemp);Nobird_Cache_AddViewNums(6378,3090,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2015年10月27日 12:34 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>为了更快速的发现站点每天产生的最新内容，<a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>站长平台推出了技术门槛更低的JS自动推送工具。站长只需一步安装便可实现页面自动推送，成本低、收益高，弥补了部分站长反馈的使用主动推送方式提交时技术门槛较高的问题。</p><p>自动推送JS代码是百度站长平台最新推出的轻量级链接提交组件，站长只需将自动推送的JS代码放置在站点每一个页面源代码中，当页面被访问时，页面链接会自动推送给百度，<strong>有利于新页面更快被百度发现</strong>。</p><p><strong>自动推送代码如何安装使用？</strong></p><p>站长需要在每个页面的HTML代码中包含以下自动推送JS代码当页面被访问时，页面链接会自动推送给百度，有利于新页面更快被百度发现。具体如下：</p><blockquote><p>&lt;script&gt;</p><p>    (function(){</p><p>        var bp = document.createElement('script');</p><p>        bp.src = '//push.zhanzhang.baidu.com/push.js';</p><p>        var s = document.getElementsByTagName("script")[0];</p><p>        s.parentNode.insertBefore(bp, s);</p><p>    })();</p><p>&lt;/script&gt;</p></blockquote><p>如果站长使用PHP语言开发的网站，可以按以下步骤操作：</p><p>1、创建名为“baidu_js_push.php”的文件，文件内容是上述自动推送JS代码；</p><p>2、在每个PHP模板页文件中的 &lt;body&gt; 标记后面添加一行代码：</p><blockquote><p>&lt;?php include_once("baidu_js_push.php") ?&gt;</p></blockquote><blockquote><p>相关阅读：</p><p><a href="http://lusongsong.com/blog/post/888.html" target="_blank">百度抓取诊断工具上线</a></p><p><a href="http://lusongsong.com/blog/post/1385.html" target="_blank">百度上线Wordpress链接提交插件：可加速收录</a><br></p></blockquote><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="3090">3</ins></span><span class="diggDn">踩: <ins data-digg="3090">2</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/1418.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

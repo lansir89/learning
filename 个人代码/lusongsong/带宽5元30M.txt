@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1722.html" rel="bookmark">带宽5元30M</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6307"></nbcache><script type="text/javascript">$("#nbcache6307").attr("id","nbcache6307"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2929,6307,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年07月01日 10:12 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>在一次国际洽谈会上,一个韩国高管对一位中国运营商的年轻老总说:在我们大寒冥国,网络带宽都是20M起,不知贵国情况如何?场面一度陷入僵局。这是一位年长的中国高管开口:我们这里5元30M。韩国高管听后心情复杂地掩面跑进了卫生间。现场爆发出雷鸣般的胜利掌声。——cbBeta (@英式没品笑话百科)</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6307">0</ins></span><span class="diggDn">踩: <ins data-digg="6307">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1722.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

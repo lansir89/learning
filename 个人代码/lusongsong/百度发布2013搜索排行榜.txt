@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/828.html" rel="bookmark">百度发布2013搜索排行榜</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache2500"></nbcache><script type="text/javascript">$("#nbcache2500").attr("id","nbcache2500"+nbcacheviewtemp);Nobird_Cache_AddViewNums(4014,2500,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年12月23日 16:53 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p><a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>刚刚发布了2013搜索排行榜，“天气”一词登上“2013年十大热搜词”榜首，成为过去一年中国网民通过电脑和手机搜索点击出来的第一热词。“李天一”登上“十大话题人物”榜首，“杨幂”获得“十大热搜艺人”第一。“土豪”成为“十大网络流行语”第一。</p><p>十大热搜词里面竟然有一半都是看小说的，还有通过百度搜百度的，淘宝周边和QQ空间站长可以详细研究下。</p><p style="text-align:center"><img alt="百度发布2013搜索排行榜 微新闻" title="百度发布2013搜索排行榜 微新闻" src="http://images.lusongsong.com/upload/blog/828.jpg" width="520" height="352"></p><blockquote><p><strong>十大搜索热词：</strong></p><p>1天气;2淘宝;3武动乾坤;4绝世唐门;5莽荒纪;6遮天;7双色球;8百度;9大主宰;10qq空间</p></blockquote><blockquote><p><strong>十大上升最快事件</strong></p><p>1雅安地震;2国五条;3H7N9禽流感;4神舟十号;5雾霾;6钓鱼岛;7遗产税;8二胎新政策;9中央巡视组;10<a title="互联网" href="http://lusongsong.com/tags/hulianwang.html" target="_blank" class="keywordlink">互联网</a>金融、</p></blockquote><blockquote><p><strong>十大话题人物</strong></p><p>1李天一;2姚贝娜;3华晨宇;4科比;5章子怡;6汪峰;7王力宏;8李娜;9张亮;10王林。</p></blockquote><blockquote><p><strong>十大网络流行语</strong></p><p>1土豪;2穿越;3pm2.5;4正能量;5人艰不拆;6不明觉厉;7高端大气上档次;8图样图森破;9喜大普奔;10女汉子;</p></blockquote><blockquote><p><strong>十大移动搜索生活服务</strong></p><p>1天气;2火车票;3彩票;4黄金价格;5星座;6翻译;7解梦;8快递;9查违章;10查时间;</p></blockquote><p>访问地址：<a href="http://top.baidu.com/2013" target="_blank" rel="nofollow">http://top.baidu.com/2013</a></p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="2500">0</ins></span><span class="diggDn">踩: <ins data-digg="2500">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/828.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

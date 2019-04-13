@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/545.html" rel="bookmark">面向傻瓜 百度网页搜索结果robots提示上线</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache2217"></nbcache><script type="text/javascript">$("#nbcache2217").attr("id","nbcache2217"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2290,2217,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年01月23日 17:05 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>今天<a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>站长工具更新了robots提示功能，站长在robots.txt制作后，通过站长平台可以直观的了解到那些是搜索引擎可抓取、那些是被屏蔽的，避免因疏忽而屏蔽蜘蛛，导致收录减少。</p><p>因为我之前一直用Google的robots工具制作，比起Google网管工具的来更直观，不会制作robots的站长朋友可以使用此工具，如下图所示：</p><p style="text-align:center"><a target="_blank" href="http://images.lusongsong.com/upload/blog/545.gif"><img alt="面向傻瓜 百度网页搜索结果robots提示上线 微新闻" title="面向傻瓜 百度网页搜索结果robots提示上线 微新闻" src="http://images.lusongsong.com/upload/blog/545.gif"></a></p><blockquote><p>小知识：robots.txt可以告诉搜索引擎您的网站哪些页面可以被收录，哪些页面不可以被收录，如果您不想让搜索引擎收录您网站的某些内容，请用robots.txt文件指定搜索引擎在您网站上的抓取范围。robots.txt制作好后放到网站「根目录」就可以拉!</p></blockquote><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="2217">0</ins></span><span class="diggDn">踩: <ins data-digg="2217">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/545.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/229.html" rel="bookmark">找男友</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4814"></nbcache><script type="text/javascript">$("#nbcache4814").attr("id","nbcache4814"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1901,4814,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年01月07日 22:39 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 找男友，要多高质量应用，有货才有用户黏度。内存要大，心眼小气死你，还老卡。工业设计先天的，太前卫不耐看，又不给预定。别跟风，iOS家底好，能富几代不好说，我还是看好wp，底子好，有潜力！性格要像Siri，有原则，禁得住调戏。烟酒少量，流氓插件多了泄密，愁人。电池不用大，一天一冲，你懂的！<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4814">0</ins></span><span class="diggDn">踩: <ins data-digg="4814">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/229.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

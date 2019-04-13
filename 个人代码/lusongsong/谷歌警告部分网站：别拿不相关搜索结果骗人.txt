@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/1421.html" rel="bookmark">谷歌警告部分网站：别拿不相关搜索结果骗人</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache3093"></nbcache><script type="text/javascript">$("#nbcache3093").attr("id","nbcache3093"+nbcacheviewtemp);Nobird_Cache_AddViewNums(5032,3093,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2015年10月30日 15:12 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p style="text-align: center"><img alt="谷歌警告部分网站：别拿不相关搜索结果骗人 微新闻" title="谷歌警告部分网站：别拿不相关搜索结果骗人 微新闻" src="http://images.lusongsong.com/upload/blog/1421.gif" width="550" height="336"></p><p>谷歌今天发布博客文章，警告企业不要将用户跳转到与其搜索结果不相关的网页，否则面临惩罚。</p><p>最近包括谷歌、<a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>站内的手机端搜索，会出现大量不相关的搜索链接，例如：原本我在手机上搜“网站推广”了，结果点相关搜索出来了一个“XX学院培训”页面。</p><p>而这次谷歌是正式发布文章并表明会对其惩罚，对很多企业来说，这种处罚相当于彻底除名。当然这里还包含网站被黑的可能。</p><p>目前，在谷歌、百度手机端刷各种搜索结果的SEO机构团队层出不穷，已经逐渐形成一道产业了。</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="3093">0</ins></span><span class="diggDn">踩: <ins data-digg="3093">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/1421.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

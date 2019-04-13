@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/7363.html" rel="bookmark">百度URL定向推广开始内测 SEO的饭碗不稳了</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache7363"></nbcache><script type="text/javascript">$("#nbcache7363").attr("id","nbcache7363"+nbcacheviewtemp);Nobird_Cache_AddViewNums(43,7363,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2016年05月12日 13:28 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>相关人士透露：<a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>URL定向推广已经开始内测。我们知道，一般SEO是找关键词做推广，通过关键词带来流量，但是这里面最关键的是搜索引擎百度，如果百度让你展现在前面（竞价排名）流量自然有，现在百度又推出URL定向推广！</p><p>这是什么意思呢？我们就不需要关键词了!只需一个URL，也就是网站，可以<strong>买这个网站的URL定向推广，你的网站排名就会出现在这个网站的前面！</strong></p><p style="text-align: center;"><strong><img alt="百度URL定向推广开始内测 SEO的饭碗不稳了 微新闻 第1张" title="百度URL定向推广开始内测 SEO的饭碗不稳了 微新闻 第1张" src="http://images.lusongsong.com/zb_users/upload/2016/05/201605124050_922.jpg"></strong></p><p>这就意味着你辛辛苦苦把网站优化到首页，对手只需买个推广就能让他的网站排名高过你！百度的节操碎了一地啊！<br></p><p style="text-align: center;"><img alt="百度URL定向推广开始内测 SEO的饭碗不稳了 微新闻 第2张" title="百度URL定向推广开始内测 SEO的饭碗不稳了 微新闻 第2张" src="http://images.lusongsong.com/zb_users/upload/2016/05/201605128496_685.jpg"></p><p>上图为部分内测账户的设置界面。<br></p><p>URL定向推广的具体规则还不清楚，百度是想从医疗竞价的损失里面找些补偿吧。</p><blockquote><p>相关阅读：</p><p><a href="http://lusongsong.com/reed/800.html" target="_blank">悲催的百度竞价推广经历：白白浪费3000元</a></p><p><a href="http://lusongsong.com/blog/post/434.html" target="_blank">百度K站引公愤 数万站长恶意点击百度竞价</a></p></blockquote><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="7363">9</ins></span><span class="diggDn">踩: <ins data-digg="7363">13</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/7363.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

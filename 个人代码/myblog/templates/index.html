@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block head_css %}
+    html,body{
+    background: #f1f1f1;
+    margin:0;
+{% endblock %}
+{% block staticfile %}
+<link href="{% static 'css/index.css' %}" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
+<script src="{% static 'js/ajax.js' %}" type="text/javascript" defer="defer"></script>
+{% endblock %}
+{% block index %}
+<div style="width:842px;margin:0 auto;overflow-x:hidden;overflow-y:auto;padding-bottom:60px;">
+    <div>
+        <img src="{% static 'img/logo.bmp' %}" alt="logo">
+        <ul class="index_menu_ul">
+            <a href="{% url 'djIndex' %}">
+                <span>首页</span>
+            </a>
+            <a href="#">
+                <span>社会热点</span>
+            </a>
+            <a href="#">
+                <span>娱乐新闻</span>
+            </a>
+        </ul>
+        {% block detailArticle %}
+        {% for article in article_list %}
+        <h1 style="font-weight:bold;margin:0;padding:15px 0 0 0;"><a href="news/{{article.pk}}">{{article.title}}</a></h1>
+            <div class="article_abstrace">分类：占位符</div>
+            <div class="article_abstrace"> 发表于：{{article.created_time|date:'Y-m-d H:i:s'}}</div>
+            <div class="article_abstrace">阅读数：{{article.views}}</div>
+            <div class="article_abstrace">点赞数：{{article.likes}}</div>
+        <label id="abstract" style="font-size:17px;color: #000000;padding:15px 0 15px 0;display:block;" >{{article.abstract|safe}}</label>
+        <hr />
+        {% endfor %}
+        {% if is_paginated %}
+    <div class="pagination">
+        <span class="page-links">
+            {% if page_obj.has_previous %}
+                <a href="/index?page={{ page_obj.previous_page_number }}">上一页</a>
+            {% endif %}
+            {% if page_obj.has_next %}
+                <a href="/index?page={{ page_obj.next_page_number }}">下一页</a>
+            {% endif %}
+            <span class="page-current">
+                第{{ page_obj.number }}页 ，第{{ page_obj.paginator.num_pages }}页。
+            </span>
+        </span>
+    </div>
+       {%endif%}
+         {% endblock %}
+    </div>
+</div>
+<script>
+    var content=document.getElementById("abstract").innerHTML;
+    content=content.replace(/\s/g,"");
+    document.getElementById("abstract").innerHTML=content;
+</script>
+{% endblock %}

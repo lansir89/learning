@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1567.html" rel="bookmark">居然把专业不对口说的如此浪漫</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6152"></nbcache><script type="text/javascript">$("#nbcache6152").attr("id","nbcache6152"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2171,6152,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年02月18日 09:50 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>仔细想想，学一门专业而以后又没有靠它讨生活，其实挺浪漫的，就好像谈了一场漫长的恋爱，最后却未能修成正果。爱也好恨也罢，多年以后偶然接触到当年的专业，说着『以前也是学过这个的，现在倒是忘得一干二净了』，有点惘然，却无眷恋，简直像辜负了一整场青春一样动人。（via 王大根） </p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6152">0</ins></span><span class="diggDn">踩: <ins data-digg="6152">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1567.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

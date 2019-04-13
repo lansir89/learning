@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1549.html" rel="bookmark">人生狗生</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6134"></nbcache><script type="text/javascript">$("#nbcache6134").attr("id","nbcache6134"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1980,6134,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年01月29日 21:32 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>写稿子的时候，把烟丢进可乐罐子。居然不小心喝了一口，把烟头吃进嘴里去了！卧槽！猛吐出去！结果梅茜以为是吃的，嗖扑过来，咻一下把烟头吃进嘴里去了！然后猛吐出去！现在一人一狗傻坐着发呆，觉得人生狗生一样灰暗。（@张嘉佳）</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6134">0</ins></span><span class="diggDn">踩: <ins data-digg="6134">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1549.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/9280.html" rel="bookmark">观察了三天</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache9280"></nbcache><script type="text/javascript">$("#nbcache9280").attr("id","nbcache9280"+nbcacheviewtemp);Nobird_Cache_AddViewNums(171,9280,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年09月03日 20:38 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>“兄弟!你犯了什么事进来的啊?”</p><p>“入室偷窃。”</p><p>“咋啦，被人赃俱获?”</p><p>“屁!货还没到手呢，刚进屋就冲出两个宅在屋里的程序员，亏我还观察了那屋三天!”</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="9280">1</ins></span><span class="diggDn">踩: <ins data-digg="9280">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/9280.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

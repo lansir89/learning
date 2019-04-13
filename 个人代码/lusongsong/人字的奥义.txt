@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/8336.html" rel="bookmark">人字的奥义</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache8336"></nbcache><script type="text/javascript">$("#nbcache8336").attr("id","nbcache8336"+nbcacheviewtemp);Nobird_Cache_AddViewNums(605,8336,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年01月13日 08:50 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>“人”这个字，由两划组成，意味着人类必须要互相扶持才能成为“人”;然而请仔细看，左边的这一划比较轻松对吧!所以这表示人跟人虽然互相扶持，但是一定有人比较轻松。(frankego)</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="8336">1</ins></span><span class="diggDn">踩: <ins data-digg="8336">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/8336.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

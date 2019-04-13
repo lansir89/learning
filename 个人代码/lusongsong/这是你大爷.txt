@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1397.html" rel="bookmark">这是你大爷</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5982"></nbcache><script type="text/javascript">$("#nbcache5982").attr("id","nbcache5982"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1999,5982,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年09月27日 11:40 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>朋友在航空公司上班。帮我说今天有个空姐被投诉了。原因是。。。叫一个乘客关机。结果那个乘客拿着土豪金说这是5S诶。结果空姐拿了个iphone3出来说。这是你大爷。（@充满正能量的小X）</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5982">0</ins></span><span class="diggDn">踩: <ins data-digg="5982">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1397.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

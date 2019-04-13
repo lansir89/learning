@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/259.html" rel="bookmark">2012春晚，赵本山老师不上了</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4844"></nbcache><script type="text/javascript">$("#nbcache4844").attr("id","nbcache4844"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2547,4844,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年01月21日 20:50 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 赵本山不上新年春晚了。本山段子1：“白云，黑土向你道歉，请你睁开眼看我多可怜，今天的你我还能否重复昨天的故事，我的这张旧船票还能否登上你的破船!! ”；段子2：我们俩越来越老了，剩下时间越来越少了，以前论天儿现在论秒，下一步我准备带她走走大城市，去趟铁岭。<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4844">0</ins></span><span class="diggDn">踩: <ins data-digg="4844">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/259.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

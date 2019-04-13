@@ -1,0 +1,157 @@
+
+#user  nobody;
+worker_processes  1;		# worker进程数
+
+#error_log  logs/error.log;		# 指定错误日志
+#error_log  logs/error.log  notice;
+#error_log  logs/error.log  info;
+
+#pid        logs/nginx.pid;		# 指定进程ID
+
+
+events {
+    worker_connections  1024;	# 每个worker进程支持的最大连接数
+}
+
+
+http {
+    include       mime.types;			#Nginx支持的媒体类型库文件
+    default_type  application/octet-stream;		# 默认的媒体类型
+
+    #log_format  main  '$remote_addr - $remote_user [$time_local] "$request" '
+    #                  '$status $body_bytes_sent "$http_referer" '
+    #                  '"$http_user_agent" "$http_x_forwarded_for"';
+
+    #access_log  logs/access.log  main		#指定访问日志
+
+    sendfile        on;		# sendfile()可以在磁盘和TCP socket之间互相拷贝数据(或任意两个文件描述符)。（sendfile挎贝）
+    #tcp_nopush     on;		# 告诉nginx在一个数据包里发送所有头文件，而不一个接一个的发送。		（nopush所有）
+    #tcp_nodelay on;  	# 不要缓存数据，而是一段一段的发送。当需要及时发送数据时，就应该给应用设置这个属性。  （nodelay不缓存）
+
+	
+    #keepalive_timeout  0;	# 设置为0，即为持续长久连接
+    keepalive_timeout  65;	# 连接超时时间为65秒
+    client_header_timeout 10;  # 设置请求头和请求体(各自)的超时时间。我们也可以把这个设置低些。  
+    client_body_timeout 10;  
+    reset_timedout_connection on; 		# 告诉nginx关闭不响应的客户端连接。这将会释放那个客户端所占有的内存空间。  	（关、不、on）
+	send_timeout 30;	# 指定客户端的响应超时时间。如果在这段时间内，客户端没有读取任何数据，nginx就会关闭连接。	（响、超）
+	open_file_cache max=10000 inactive=20s;   # 打开缓存的同时也指定了缓存最大数目，以及缓存的时间。我们可以设置一个相对高的最大时间，
+							# 这样我们可以在它们不活动超过20秒后清除掉。		（缓存数目） 
+	open_file_cache_valid 30s;  		# 在open_file_cache中指定检测正确信息的间隔时间。
+	
+	#keepalive_timeout：超时连接
+	#client_header_timeout：包头超时时间
+	#client_body_timeout 10：包体超时时间
+	#reset_timedout_connection：关闭不响应
+	#send_timeout：响应超时
+	
+
+	# 每个设备的状态设置为:  
+    # 1.down表示当前的server暂时不参与负载  
+    # 2.weight默认为weight值越大，负载的权重就越大。  		（值越大、权重越大）
+    # 3.max_fails：允许请求失败的次数默认为1.当超过最大次数时，返回proxy_next_upstream模块定义的错误  	（次数）
+    # 4.fail_timeout:  max_fails次失败后，暂停的时间。  			（时间）
+    # 5.backup： 其它所有的非backup机器down或者忙的时候，请求backup机器。所以这台机器压力会最轻。  
+	upstream localhost{  
+    server localhost:8080 weight=10;  
+    server localhost:8081 weight=10;  
+    #server localhost:10000 backup;  
+  
+    }  
+	
+    #gzip  on;				# 开启压缩
+
+    server {					# 第一个虚拟主机
+        listen       80;		# 端口为80端口
+        server_name  www.xiaopet.com;		# 提供服务的域名主机名
+
+        #charset koi8-r;		# 指定编码
+
+        #access_log  logs/host.access.log  main;
+
+        location / {
+            root   html/xiaopet;		# 站点根目录
+            index  index.html index.htm;	# 首页，多个用空格分开
+        }
+
+        #error_page  404              /404.html;
+
+        # redirect server error pages to the static page /50x.html
+        #
+        error_page   500 502 503 504  /50x.html;	# 出现对应的http状态码时，使用50x.html回应客户
+        location = /50x.html {
+            root   html;
+        }
+
+        # proxy the PHP scripts to Apache listening on 127.0.0.1:80
+        #
+        #location ~ \.php$ {
+        #    proxy_pass   http://127.0.0.1;		# 配置转发
+        #}
+
+        # pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000
+        #
+        #location ~ \.php$ {
+        #    root           html;
+        #    fastcgi_pass   127.0.0.1:9000;
+        #    fastcgi_index  index.php;
+        #    fastcgi_param  SCRIPT_FILENAME  /scripts$fastcgi_script_name;
+        #    include        fastcgi_params;
+        #}
+
+        # deny access to .htaccess files, if Apache's document root
+        # concurs with nginx's one
+        #
+        #location ~ /\.ht {
+        #    deny  all;
+        #}
+    }
+	server {			# 第二个虚拟主机
+        listen       80;
+        server_name  www.xiaopet1.com;
+        location / {
+            root   html/xiaopet1;
+            index  index.html index.htm;
+        }
+        error_page   500 502 503 504  /50x.html;
+        location = /50x.html {
+            root   html;
+        }
+	}
+
+    # another virtual host using mix of IP-, name-, and port-based configuration
+    #
+    #server {						# 基于IP的虚拟主机
+    #    listen       8000;
+    #    listen       somename:8080;
+    #    server_name  somename  alias  another.alias;
+
+    #    location / {
+    #        root   html;
+    #        index  index.html index.htm;
+    #    }
+    #}
+
+
+    # HTTPS server
+    #
+    #server {
+    #    listen       443 ssl;
+    #    server_name  localhost;
+
+    #    ssl_certificate      cert.pem;
+    #    ssl_certificate_key  cert.key;
+
+    #    ssl_session_cache    shared:SSL:1m;
+    #    ssl_session_timeout  5m;
+
+    #    ssl_ciphers  HIGH:!aNULL:!MD5;
+    #    ssl_prefer_server_ciphers  on;
+
+    #    location / {
+    #        root   html;
+    #        index  index.html index.htm;
+    #    }
+    #}
+
+}

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/319.html" rel="bookmark">我见过4种人</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4904"></nbcache><script type="text/javascript">$("#nbcache4904").attr("id","nbcache4904"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1579,4904,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年02月14日 09:35 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 普通人随波逐流，他们是对人不对事。就是讨好人但不顾事情是否真做好了。少许人正直刚强，他们对事不对人。事情要做对，不给人面子。个别人，一般是刚正的老者，却是对人不对事。他认定的好人，帮到底。认定的坏人，宰到底。最后一种，对人也对事。同人不同事或同事不同人，处理全不同。<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4904">0</ins></span><span class="diggDn">踩: <ins data-digg="4904">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/319.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

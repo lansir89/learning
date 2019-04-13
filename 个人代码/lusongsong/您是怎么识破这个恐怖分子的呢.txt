@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/7985.html" rel="bookmark">您是怎么识破这个恐怖分子的呢</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache7985"></nbcache><script type="text/javascript">$("#nbcache7985").attr("id","nbcache7985"+nbcacheviewtemp);Nobird_Cache_AddViewNums(115,7985,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2016年10月18日 09:08 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>女警问：“您是怎么识破这个恐怖分子的呢，局长?“</p><p>警察局长笑笑说：”你看他包里有一卷胶布，两台手机，一台note7，一台小米，而小米手机只装了一个游戏。当他用小米手机运行游戏，再用胶布把note7和小米绑到一起，会变成什么呢?“</p><p>女警惊讶说：定时炸弹?</p><p>“没错”，局长又说：“小米过热之后，三星note7就会发生爆炸，烧穿飞机的地板，从而酿成严重的飞行事故。”</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="7985">8</ins></span><span class="diggDn">踩: <ins data-digg="7985">2</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/7985.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

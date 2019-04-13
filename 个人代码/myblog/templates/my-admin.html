@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block staticfile %}
+<link href="{% static 'css/my-admin.css' %}" type="text/css" rel="stylesheet">
+<script src="{% static 'js/login.js' %}" type="text/javascript" defer="defer"></script> 
+{% endblock %}
+{% block body %}
+<div class="iforgot_cont">
+    <div id="logo_center" >
+        <img src="{% static 'img/logo.bmp' %}" alt="logo">
+    </div>
+    <div class="i_mod" >
+        <form class="login_form" method="post" id="bForm" name="bForm" action="{% url 'djAdmin' %}" onsubmit="return checkpwd()">
+        {% csrf_token %}
+            <ul style="padding-top:20px;padding-bottom:20px">             
+                <li><label for="user_result" class="Textfont_index">登陆账号或邮箱：</label>
+                </li>
+                 <li id="input_index_css">
+                    <input name='username' id="user_result" maxlength="64" placeholder="请输入账号">
+                </li>
+                <li class="Textfont_index" ><label for="input_js" class="Textfont">登陆密码：</label>
+                </li>
+                <li id="input_index_css">
+                    <input id="input_js" name='password' type="password" maxlength="20" placeholder="请输入密码">
+                </li>
+                <li id="pwd_result">
+                   账号或密码不能为空
+                </li>
+                <li>
+                    <input type="submit" value="登录" id="mysubmit" style="margin:10px 0 0 50px">
+                    <input type="reset" value="重置" style="margin-left:50px">
+                </li>
+            </ul>
+        </form>
+    </div>
+</div>
+{% endblock %}

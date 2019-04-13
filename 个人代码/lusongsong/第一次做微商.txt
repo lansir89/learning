@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/8847.html" rel="bookmark">第一次做微商</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache8847"></nbcache><script type="text/javascript">$("#nbcache8847").attr("id","nbcache8847"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1410,8847,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年05月20日 10:16 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>对不起，插个广告!</p><p>朋友因从南航撤资，该公司无现金抵了一架飞机给他，因急着套现，现委托帮其出售：南航空客A380飞机，飞行时间3000小时左右，原机原码，无补漆，无刮碰，违章清零，年审到2030年，全款支付赠送宝马X6一辆，裸机34亿人民币，现半价17亿出售，不议价，痛快的油箱加满油，送空姐14名，9名未婚，平均年龄22岁，无实力者勿扰!听说本群有大款，所以才第一时间转发。动作要快，姿势要帅!另售原苏联常规动力航母一艘，半价出。300亿，带赠24架苏33战斗机。</p><p>非诚勿扰! 第一次做微商，不知道卖啥，请大家多多支持!</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="8847">10</ins></span><span class="diggDn">踩: <ins data-digg="8847">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/8847.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

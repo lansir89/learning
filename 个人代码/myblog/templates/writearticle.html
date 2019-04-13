@@ -1,0 +1,27 @@
+
+<form method="post" action="{% url 'djPost_article' %}"  onsubmit="return blog_submit()">
+    <ul class="input_box">
+        <li>
+            {% csrf_token %}
+            <label for="{{ form.title.id_for_label }}">{{ form.title.label }}：</label>
+            {{ form.title }}
+            {{ form.title.errors }}
+            <label for="{{ form.abstract.id_for_label }}" style="margin-left:20px">{{ form.abstract.label }}：</label>
+        </li>
+        <li>
+        <label for="{{ form.body.id_for_label }}" style="padding-top:20px;float:left;">{{ form.body.label }}：</label>
+            {{ form.body }}
+            {{ form.body.errors }}
+            {{ form.abstract }}
+            {{ form.abstract.errors }}
+        </li>
+        <li style="padding-top:20px;clear: both;">
+        <li style="margin:-30px 0 0 200px;">
+            <input type="submit" value="提交" id="blogsubmit" style="margin:10px 0 0 50px">
+            <input type="reset" value="重置" style="margin-left:50px">
+        </li>
+    </ul>
+</form>
+<script type="text/javascript">
+
+</script>

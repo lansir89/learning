@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1608.html" rel="bookmark">男人背后的女人</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6193"></nbcache><script type="text/javascript">$("#nbcache6193").attr("id","nbcache6193"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2220,6193,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年03月21日 09:22 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>马云：彭蕾、张瑛;李彦宏：马东敏;张瑞敏：杨绵绵;任正非：孙亚芳;史玉柱：刘伟;张朝阳：王昕、余楚媛;李嘉诚：周凯旋;李国庆：俞渝;潘石屹：张欣;女人们是男人的老婆、红颜知己、<a title="创业" href="http://lusongsong.com/tags/chuangye.html" target="_blank" class="keywordlink">创业</a>伙伴，往往名声不如男人们，却是男人撑起天的基石。</p><p>拿张瑛举例来说，确实不简单，马云从杭州到北京的来回折腾，毫无怨言，后来在杭州将自己的房子拿出来当阿里巴巴的办公场所，也都予以支持，相信现在90%的人是不会支持老公拿新房办公的。@鲁振旺</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6193">0</ins></span><span class="diggDn">踩: <ins data-digg="6193">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1608.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

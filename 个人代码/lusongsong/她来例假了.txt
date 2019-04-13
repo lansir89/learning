@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1755.html" rel="bookmark">她来例假了</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6340"></nbcache><script type="text/javascript">$("#nbcache6340").attr("id","nbcache6340"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2351,6340,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年08月03日 12:02 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>她来例假了肚子疼，他坐着她旁边，看了她一眼，拿出手机玩游戏，她看在眼里，心里凉了半截。两分钟后，她实在坐不下去了，正准备离开，只见他默默地递过来他的小米手机说：拿去捂着。@那年那鸟</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6340">0</ins></span><span class="diggDn">踩: <ins data-digg="6340">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1755.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

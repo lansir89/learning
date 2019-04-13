@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/690.html" rel="bookmark">一桩怪事</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5275"></nbcache><script type="text/javascript">$("#nbcache5275").attr("id","nbcache5275"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1618,5275,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年09月13日 11:14 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 在距钓鱼岛两百多海里的区域，发生了一桩怪事，两艘行驶中的海监船，竟然奇迹般地消失了，更令人震惊的是，船上所有的通讯设施全部瘫痪，GPS也失去信号。究竟是外星人绑架还是进入了第四维空间？是被海底文明袭击还是误入时光隧道？请关注中央电视台10套《走近科学》暑期系列节目《消失的海监船》。（@法号野合）<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5275">0</ins></span><span class="diggDn">踩: <ins data-digg="5275">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/690.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

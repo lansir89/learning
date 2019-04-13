@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/7793.html" rel="bookmark">当当联盟将暂停PC合作</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache7793"></nbcache><script type="text/javascript">$("#nbcache7793").attr("id","nbcache7793"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2001,7793,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2016年08月30日 13:32 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>现在的购物网站基本都会有第三方的返利网，以此来刺激消费增加销售。最近，当当网旗下的当当联盟突然宣布暂停PC合作！</p><p>当当联盟自9月1日起暂停PC合作，费用结算至8月31日，恢复时间另行通知，请站长及时更换链接，给大家带来不便，敬请谅解!</p><p style="text-align: center;"><img alt="当当联盟将暂停PC合作 微新闻" title="当当联盟将暂停PC合作 微新闻" src="http://images.lusongsong.com/zb_users/upload/2016/08/201608306139_462.jpg"></p><p>什么是当当网站联盟?</p><p>当当网站联盟主要帮助当当网推广商品扩大品牌知名度，与广大客户之间的一个合作平台。任何公司或个人加入当当网站联盟制作相应广告链接并投放，并最终完成有效购买行为，就可以获得销售提成。</p><p>看来这种返利网购物模式的发展堪忧啊！</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="7793">8</ins></span><span class="diggDn">踩: <ins data-digg="7793">1</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/7793.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

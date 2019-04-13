@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/707.html" rel="bookmark">你的世界观就真的变了</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5292"></nbcache><script type="text/javascript">$("#nbcache5292").attr("id","nbcache5292"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1560,5292,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年09月20日 14:48 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 旅行社说，一个苹果手机可以游云南一圈，一辆小车可以游新马泰住海岸宾馆，一间套房首付可以游遍世界，到时候，你的世界观可能就变了。房产商说，到时候你两手空空一身黝黑回来，看到朋友有车有房有媳妇，拿着手机切水果，你的世界观就真的变了。。。 <ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5292">0</ins></span><span class="diggDn">踩: <ins data-digg="5292">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/707.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/blog/post/9276.html" rel="bookmark">百度蜘蛛提升HTTPS抓取力度</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache9276"></nbcache><script type="text/javascript">$("#nbcache9276").attr("id","nbcache9276"+nbcacheviewtemp);Nobird_Cache_AddViewNums(499,9276,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年09月02日 12:41 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>前几日，<a href="http://lusongsong.com/blog/post/1002.html" target="_blank">百度站长平台</a>发布公告称：<a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>Spider升级了对HTTPS数据的抓取力度，HTTPS数据将更快被Spider抓取到。</p><p style="text-align: center;"><img alt="百度蜘蛛提升HTTPS抓取力度 微新闻" title="百度蜘蛛提升HTTPS抓取力度 微新闻" src="http://images.lusongsong.com/zb_users/upload/2017/09/201709028082_685.jpg" width="500" height="287" border="0" vspace="0" style="width: 500px; height: 287px;"></p><p>公告内容非常简短，只是告诉我们提升了对HTTPS数据的抓取力度，到底提升多少，相比HTTP抓取还有哪些差距我们不得而知。</p><p>据我所知，百度对HTTPS的收录一直不是很友好。<strong>2015年的时候百度才开放https的站点收录，去年的时候(2016年)，百度对自己的https竟然都没有收录，也更不指望它能对其他</strong><a href="http://lusongsong.com/blog/post/1278.html" target="_blank"><strong>https站点</strong></a><strong>有多友好了。</strong>这也是很多老站长不愿意升级https的最重要原因之一。</p><p>不可否认的是https是未来趋势，我们站长早晚都会转移到https，但肯定不是现在，更不会是今年。</p><blockquote><p><strong>相关阅读：</strong></p><p><a href="http://lusongsong.com/info/post/8930.html" target="_blank">全站HTTPs的那些坑</a></p><p><a href="http://lusongsong.com/info/post/8438.html" target="_blank">怎样把网站从http转换成https</a> </p></blockquote><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="9276">1</ins></span><span class="diggDn">踩: <ins data-digg="9276">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/blog/post/9276.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1786.html" rel="bookmark">想看几点了</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6371"></nbcache><script type="text/javascript">$("#nbcache6371").attr("id","nbcache6371"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1574,6371,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年09月03日 08:44 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>想看几点了→掏出手机→很自然的顺手打开解锁→打开微信回几条消息刷一下朋友圈→刷一会儿微博→手机放回去→咦，几点了→掏出手机恍恍惚惚看一眼→我要干嘛来着？？？ （@苦逼老湿）</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6371">0</ins></span><span class="diggDn">踩: <ins data-digg="6371">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1786.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

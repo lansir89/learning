@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/2176.html" rel="bookmark">小米的社区果然就像官媒一样的做派</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6761"></nbcache><script type="text/javascript">$("#nbcache6761").attr("id","nbcache6761"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1336,6761,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2015年09月08日 09:14 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>小米的社区果然就像官媒一样的做派。进去一看，大片歌颂小米产品的帖子，又是撒花，又是顶贴，又是加精。我去发帖咨询一个小米系产品间缺乏联动的设计问题，帖子就被枪毙了，而且还是淘宝那种『小黑屋』模式(自己看得见，别人找不着)…… 唉，终究还是没有做『米粉』的觉悟啊~</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6761">0</ins></span><span class="diggDn">踩: <ins data-digg="6761">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/2176.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

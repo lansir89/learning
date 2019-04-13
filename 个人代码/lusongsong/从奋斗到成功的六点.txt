@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/442.html" rel="bookmark">从奋斗到成功的六点</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5027"></nbcache><script type="text/javascript">$("#nbcache5027").attr("id","nbcache5027"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1715,5027,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年04月27日 09:13 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 1、如果你想生活充满激情，试着学有兴趣的事；2、对前途迷茫和困惑，记得那只是找到正途前的黑暗；3、培养成就感，那使你有无限动力完成所有挑战；4、学会最好的投资：靠积少成多而非一夜暴富；5、只思考怎样能做得更好，少想为什么做不好；6、能力+意愿+坚持=成功。<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5027">0</ins></span><span class="diggDn">踩: <ins data-digg="5027">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/442.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

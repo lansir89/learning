@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/337.html" rel="bookmark">管理者需要知道的五件事</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4922"></nbcache><script type="text/javascript">$("#nbcache4922").attr("id","nbcache4922"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1407,4922,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年02月24日 09:48 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 1.会越短越好，记住，你也得给静静坐着的员工发薪水；2.无法培养下属对你的信任等于未战先败；3.偶尔听听员工怎么评价你；4.永远别对下属记仇，只有傻子才恨咬过舌头的牙齿；5.培养团队戴脚镣跳舞的能力，脚镣就是规则，但注意脚镣别太紧，否则只能戴着脚镣呆着。 <ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4922">0</ins></span><span class="diggDn">踩: <ins data-digg="4922">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/337.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

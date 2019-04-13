@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1485.html" rel="bookmark">IT狗的日常</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6070"></nbcache><script type="text/javascript">$("#nbcache6070").attr("id","nbcache6070"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2430,6070,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年12月07日 10:41 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>向外行人普及一下IT狗的日常。程序员每天都在加班打码，前端基本是在切图，设计师最恨人叫他美工，运营狗为了KPI什么都敢干。销售的都崇拜搞传销的，策划的天天改方案，商务的拿广告位换酒喝，新闻的最烦ctrl c+v。游戏的除了美女就是流氓，有时候还能既是美女又是流氓。没有一个人知道产品在干什么。</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6070">0</ins></span><span class="diggDn">踩: <ins data-digg="6070">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1485.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

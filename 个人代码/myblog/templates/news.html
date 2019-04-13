@@ -1,0 +1,65 @@
+{% extends 'index.html' %}
+{% load static %}
+{% block head_css %}
+    {{super.block}}
+{% endblock %}
+{% block staticfile %}
+<link href="{% static 'css/index.css' %}" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.css">
+<style>
+    .my_com_body{
+    float:left;
+    resize:none;
+</style>
+{% endblock %}
+{% block index %}
+<div style="width:842px;margin:0 auto;overflow-x:hidden;overflow-y:auto;padding-bottom:60px;">
+    <div>
+        <img src="{% static 'img/logo.bmp' %}" alt="logo">
+        <ul class="index_menu_ul">
+            <a href="{% url 'djIndex' %}">
+                <span>首页</span>
+            </a>
+            <a href="#">
+                <span>社会热点</span>
+            </a>
+            <a href="#">
+                <span>娱乐新闻</span>
+            </a>
+        </ul>
+       {% block detailArticle %}
+        {% if success %}
+        <div>评论成功</div>
+        {% endif %}
+        <h1 style="font-weight:bold;margin:0;padding:15px 0 0 0;">{{article.title}}</h1>
+            <div class="article_abstrace">分类：占位符</div>
+            <div class="article_abstrace"> 发表于：{{article.created_time|date:'Y-m-d H:i:s'}}</div>
+            <div class="article_abstrace">阅读数：{{article.views}}</div>
+             <div class="article_abstrace">点赞数：{{article.likes}}</div>
+        <div style="font-size:17px;color: #000000;padding:15px 0 15px 0;text-indent:2em;">{{article.body|safe}}</div>
+        {% endblock %}
+        <hr />
+        {% for com in comm %}
+        <div style="display:inline-block">用户：{{com.user_com}}</div>
+        <div style="display:inline-block;padding-left:50px;">{{com.time_com|date:'Y-m-d H:i:s'}}</div>
+        <div style="background-color:#ccc4c4;width:100%;min-height:50px;margin-bottom:15px;padding:5px 5px 5px 5px;">{{com.body_com}}</div>
+        {% endfor %}
+        <hr />
+        <div>
+            <form method="post" action="{% url 'djComment' article.pk %}">
+{% csrf_token %}
+                <div><label for="{{myform.user_com.id_for_label}}" style="float:left">{{myform.user_com.label}}：&nbsp&nbsp&nbsp&nbsp;</label>
+                    <div style="float:left">{{myform.user_com}}</div>
+                </div>
+                <div style="padding:20px 0 5px 0;clear:both;">
+                    <label for="{{myform.body_com.id_for_label}}" style="padding-top:5px;float:left">{{myform.body_com.label}}： </label>
+                    {{myform.body_com}}
+                </div>
+                <div style="clear:both;">
+                    <input type="submit" value="提交">
+                </div>
+</form>
+        </div>
+    </div>
+</div>
+{% endblock %}

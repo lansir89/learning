@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/691.html" rel="bookmark">一对情侣在吵架</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5276"></nbcache><script type="text/javascript">$("#nbcache5276").attr("id","nbcache5276"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1685,5276,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年09月13日 15:12 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 街边，一对情侣在吵架。女孩对男孩说，“我们分手吧！”男孩沉默半天，开口问道，“我能再说最后一句话吗？”“说吧，婆婆妈妈的。”“我会编程……”“会编程有个屁用啊，现在到处都是会编程的人！”男孩涨红了脸，接着说道，“我会编程……我会变成……童话里,你爱的那个天使……”@IT茶馆<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5276">0</ins></span><span class="diggDn">踩: <ins data-digg="5276">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/691.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

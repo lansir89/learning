@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1853.html" rel="bookmark">O2O模式</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6438"></nbcache><script type="text/javascript">$("#nbcache6438").attr("id","nbcache6438"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1847,6438,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年11月03日 10:00 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>大款以每月20000的价格包养女大学生B，B女生竟每月从包养费中拿出10000包养适龄男学生C(B2C)，C男觉得不平衡，每月花5000包养起o小女生，o小女生发现自己是这条生物链的最底端后，很不爽，直接微信了O大款，于是两人踢了B和C(砍掉中间)，直接交易，每月8000。</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6438">2</ins></span><span class="diggDn">踩: <ins data-digg="6438">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1853.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

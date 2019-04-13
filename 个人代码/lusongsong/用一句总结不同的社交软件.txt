@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/8656.html" rel="bookmark">用一句总结不同的社交软件</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache8656"></nbcache><script type="text/javascript">$("#nbcache8656").attr("id","nbcache8656"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1073,8656,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年04月04日 10:07 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>米聊：我还活着，但你却不要我了。微博：其实我是媒体。陌陌：泡你或者泡我。QQ：我老了，你们还在上我，但更爱上我年轻的妹妹(微信)。朋友圈：秀你、秀我，评你、评我。其它：我有一个梦想。。。 @倪正东...</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="8656">4</ins></span><span class="diggDn">踩: <ins data-digg="8656">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/8656.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

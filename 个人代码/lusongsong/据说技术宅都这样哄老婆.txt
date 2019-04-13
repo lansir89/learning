@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1514.html" rel="bookmark">据说技术宅都这样哄老婆</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6099"></nbcache><script type="text/javascript">$("#nbcache6099").attr("id","nbcache6099"+nbcacheviewtemp);Nobird_Cache_AddViewNums(3857,6099,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年12月27日 09:13 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>1、给老婆支付宝一大笔钱；2、更改host文件把淘宝指向自己做的钓鱼网站；3、骗支付宝密码把钱转走；4、像个男人一样安慰她说：“没事儿，钱丢了不要紧，只要你没丢就行，宝贝儿别伤心了，一会我再给你打一笔钱。</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6099">0</ins></span><span class="diggDn">踩: <ins data-digg="6099">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1514.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

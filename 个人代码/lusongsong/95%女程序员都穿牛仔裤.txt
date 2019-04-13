@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1228.html" rel="bookmark">95%女程序员都穿牛仔裤</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5813"></nbcache><script type="text/javascript">$("#nbcache5813").attr("id","nbcache5813"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2465,5813,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年06月19日 12:39 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>吃过午饭，回公司，在大厅见一美女，便小声对老王说：你看，来一美女面试，说不定来咱们组。老王瞅了我一眼：早看到了，不是面人事就是财务。我诧异：你怎么知道？老王说：她穿裙子了，以我多年观察经验，95%女程序员都穿牛仔裤。我问：那不是还有5%吗？ 他说：她们去面试，也会穿牛仔裤，这样显得专业。@浦东张江</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5813">0</ins></span><span class="diggDn">踩: <ins data-digg="5813">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1228.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/8032.html" rel="bookmark">刚工作那会工资低</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache8032"></nbcache><script type="text/javascript">$("#nbcache8032").attr("id","nbcache8032"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1283,8032,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2016年10月29日 09:04 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>刚工作那会工资低，每个月只有2000块，有一次公司内部篮球赛，急于表现的我在第一场比赛狂砍35分12帽，率队45:7狂胜领导队，赛后领导夸我表现突出，对我印象深刻。五年过去了，我工资还是2000。(网友)</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="8032">19</ins></span><span class="diggDn">踩: <ins data-digg="8032">2</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/8032.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

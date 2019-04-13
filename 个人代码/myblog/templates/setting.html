@@ -1,0 +1,22 @@
+<form method="post" action="{% url 'djPost_Setting' %}"  onsubmit="return ajax_post({% url 'djPost_Setting' %})">
+    {% csrf_token %}
+    <ul class="setting_input">
+        <li>
+            <label for="blog_title_id">网站标题：&#12288</label>
+            <input name='name_title' class="blog_input" placeholder="请输入标题" id="blog_title_id" value="网站">
+        </li>
+        <li>
+            <label for="blog_keywords_id">网站关键词：</label>
+            <input name='name_keywords' class="blog_input" placeholder="请输入网站关键词" id="blog_keywords_id" value="默认关键字">
+            <span style="padding-left:15px;">（以逗号分隔）</span>
+        </li>
+                <li>
+            <label for="blog_description_id">网站描述：&#12288</label>
+            <input name='name_description' class="blog_input" placeholder="请输入网站描述" id="blog_description_id" value="默认描述">
+        </li>
+        <li style="padding-left:200px;">
+            <input type="submit" value="提交" id="blogsubmit" style="margin:10px 0 0 50px">
+            <input type="reset" value="重置" style="margin-left:50px">
+        </li>
+    </ul>
+</form>

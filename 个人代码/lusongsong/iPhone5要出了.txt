@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/182.html" rel="bookmark">iPhone5要出了</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4767"></nbcache><script type="text/javascript">$("#nbcache4767").attr("id","nbcache4767"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1492,4767,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2011年12月18日 17:14 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>“iPhone5要出了，这可怎么办呢，就只剩下一个肾了” 网友回复：“亲，还有精哦！” 楼主：“人家是女的” 网友回复：“亲，还有初夜哦！” 楼主：“早没了” 网友回复：“亲，还可以找个好干爹哦！” 楼主：“长得不如郭美美” 网友回复：“亲，还可以装老奶奶在马路边等奔驰哦。”......</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4767">0</ins></span><span class="diggDn">踩: <ins data-digg="4767">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/182.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/754.html" rel="bookmark">元芳，这件事你怎么看</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5339"></nbcache><script type="text/javascript">$("#nbcache5339").attr("id","nbcache5339"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1921,5339,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年10月19日 15:36 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 狄仁杰：“这已经是第三个在我询问案情的过程中突然死亡的案件证人了，究竟是什么人，用什么方法，竟然能把时间掌握的如此精确，能让这些证人死在我的面前，向我示威？元芳，这件事你怎么看？”李元芳：“大人，下次来急救室询问案件的时候，站远一点，不要再踩到证人的输氧管了。”<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5339">2</ins></span><span class="diggDn">踩: <ins data-digg="5339">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/754.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

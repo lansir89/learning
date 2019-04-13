@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+{% load static %}
+
+<html>
+<head>
+    <title>网站</title>
+    <!-- meta -->
+    <meta charset="UTF-8">
+    <meta name="keywords" content="默认关键字">
+    <meta name="description" content="默认描述">
+<link href="{% static 'css/base.css' %}" type="text/css" rel="stylesheet">
+    <style type="text/css">
+    {% block head_css %}
+    html,body{
+    background: #f1f1f1;
+    height:100%;
+    overflow:hidden;
+    margin:0;
+    {% endblock %}
+}
+
+    </style>
+{% block staticfile %}
+{% endblock %}
+</head>
+<body>
+{% block index %}
+<div class="body_tmp">
+{% block body %}
+
+{% block part_ajax %}
+
+{% endblock %}
+
+{% endblock %}
+
+{% endblock %}
+</div>
+<div class="footer">
+         Copyright © 2009-2018 梦幻之星 版权所有
+</div>
+</body>
+</html>

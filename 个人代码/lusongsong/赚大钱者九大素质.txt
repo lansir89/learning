@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1264.html" rel="bookmark">赚大钱者九大素质</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5849"></nbcache><script type="text/javascript">$("#nbcache5849").attr("id","nbcache5849"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1771,5849,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年07月04日 15:20 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>1、一旦有赚钱念头就马上一步一个脚印去做；2、想赚大钱，就要立志当商人；3、不安于现状，无休止地进取；4、多动脑筋，超越常理，出奇制胜；5、想发财要不怕羞；6、对自己充满信心；7、赚钱要有创意；8、成功的企业家或商人都是爽快的人；9、多听经验丰富的知己好友的建议。</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5849">0</ins></span><span class="diggDn">踩: <ins data-digg="5849">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1264.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

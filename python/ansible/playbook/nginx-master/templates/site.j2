@@ -1,0 +1,25 @@
+server {				#这个配置文件应该是nginx的虚拟主机，这个使用的变量是nginx_sites变量
+
+#这里打印日志文件
+{% if nginx_separate_logs_per_site == True %}
+	access_log {{ nginx_log_dir}}/{{ item.server.server_name}}-{{ nginx_access_log_name}};
+	error_log {{ nginx_log_dir}}/{{ item.server.server_name}}-{{ nginx_error_log_name}};
+{% endif %}
+
+这里是打印location语句之前的内容
+{% for k,v in item.server.iteritems() %}		#iteritems是一个python函数，也就是返回一个item.server迭代器
+{% if k.find('location') == -1 and k != 'file_name' %}	#查找非location键，并打印这些非location键值对
+{{ k }} {{ v }};
+{% endif %}
+{% endfor %} 
+
+#下面开始打印location语句的内容
+{% for k,v in item.server.iteritems() if k.find('location') != -1 %}	#查找location键，并打印这些location键值对
+  location {{ v.name }} {							#这里打印到了类似"location / {"这样的location语句的开头
+{% for x,y in v.iteritems() if x != 'name' %} 		#字典的值又是字典，返回这些值字典的迭代器并打印出非name部分
+      {{ x }} {{ y }};
+{% endfor %}
+  }
+{% endfor %}
+}
+

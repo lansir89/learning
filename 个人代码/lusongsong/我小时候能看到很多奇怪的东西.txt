@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/2199.html" rel="bookmark">我小时候能看到很多奇怪的东西</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6784"></nbcache><script type="text/javascript">$("#nbcache6784").attr("id","nbcache6784"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1303,6784,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2015年09月29日 01:39 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>我小时候能看到很多奇怪的东西，比如在冰箱那里，能看到两个人。我就跟我爸妈讲，我爸妈和爷爷奶奶吓得半死，他们找算命先生和法师也没弄明白为什么，法师说等长大了就好了。后来我长大了，依旧能看见，直到现在，我知道了，原来，那两个人，是海尔兄弟。</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6784">1</ins></span><span class="diggDn">踩: <ins data-digg="6784">1</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/2199.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

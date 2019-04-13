@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block head_css %}
+    {{block.super}}
+{% endblock %}
+{% block staticfile %}
+<link href="{% static 'css/admin.css' %}" type="text/css" rel="stylesheet">
+<link href="{% static 'css/writearticle.css' %}" type="text/css" rel="stylesheet">
+<script src="{% static 'js/ajax.js' %}" type="text/javascript" defer="defer"></script>
+{% endblock %}
+{% block body %}
+
+<div class="menu_head">
+
+    <ul class="menu_head_ul">
+        <li><img src={% static 'img/logo-small.png' %} alt="logo"></li>
+        <li><a href="{% url 'djIndex' %}">返回首页</a></li>
+        <li><a href="javascript:void(0);" onclick="ajax_post('{% url 'djWritearticle' %}');">编写文章</a></li>
+    </ul>
+</div>
+
+<div style="height:20px;width:100%">
+    <div id="wrap">
+        <div class="wrapIn" style="padding-left:20px">
+            <div id="text1" style="font-size:14px;display:inline-block;">欢迎回来</div>
+            <div style="display:inline-block;font-size:14px;padding-left:50px;">当前文章总数为{{article_count}}篇，评论数{{com_count}}条</div>
+            <div id="text2"></div>
+        </div>
+    </div>
+</div>
+
+<div class="menu_main" >
+    <ul class="menu_main_ul">
+    <li style="padding-top:20px"><a href="{% url 'djManage' %}">文章</a></li>
+        <li><a href="###">分类</a></li>
+        <li><a href="###">评论</a></li>
+        <li><a href="javascript:void(0);" onclick="setting_ajax('{% url 'djSetting' %}');">设置</a></li>
+    </ul>
+</div>
+
+<div class="ajaxbox" id="ajaxbox_id">
+    {% block part_ajax %}
+        {% if setting_result %}
+        <div style="padding:50px 0 0 300px;">
+            <span style="color:red;font-size:30px;">设置成功</span>
+        </div>
+        {% elif article %}
+        <div style="padding:50px 0 0 300px;">
+            <span style="color:red;font-size:30px;">文章保存成功</span>
+        </div>
+        {% else %}
+    <a style="display:inline;float:left">
+        <span style="padding:10px 0 0 20px">文章列表</span>
+        {% for article in article_list %}
+            <form action="#" method="get">
+            <p style="margin:5px 0 0 20px;"><input type="checkbox" name="vehicle" value="Bike" /> {{article.title}}</p>
+                {% endfor %}
+            <div style="padding:20px 0 0 20px">
+            <input  type="submit" value="删除" />
+            </div>
+            </form>
+    </a>
+    <hr style="float:left;height:500px;border: 1px solid #aaa;margin:5px 30px 0 80px;">
+    <a style="display:inline;float:left;width:600px;">
+        <span style="padding:10px 0 0 20px">评论列表</span>
+        {% for com in mycom %}
+            <form action="#" method="get">
+            <p style="margin:5px 0 0 20px;"><input type="checkbox" name="comment" value="Bike" /> {{com.body_com}}</p>
+                {% endfor %}
+            <div style="padding:20px 0 0 20px">
+            <input  type="submit" value="删除" />
+            </div>
+            </form>
+    </a>
+        {% endif %}
+    {% endblock %}
+    <div></div>
+</div>
+
+{% endblock %}
+
+

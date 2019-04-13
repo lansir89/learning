@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/845.html" rel="bookmark">2013是第一次过到4个数字不一样的年份</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5430"></nbcache><script type="text/javascript">$("#nbcache5430").attr("id","nbcache5430"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2871,5430,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年12月11日 13:13 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 快下班了，一群程序猿(媛)好不容易凑到一块聊会天，突然有人说明年2013是第一次过到4个数字不一样的年份，猿媛们都觉得不可思议，随后不少人纷纷点头称是，只见一个程序猿沉默了片刻，最后拿起包默默地回家了……<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5430">0</ins></span><span class="diggDn">踩: <ins data-digg="5430">1</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/845.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

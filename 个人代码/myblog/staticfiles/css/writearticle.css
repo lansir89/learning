@@ -1,0 +1,33 @@
+.input_box{
+    list-style:none;
+}
+
+.input_box li{
+    padding-top:20px;
+}
+
+.blog_input{
+    height: 25px;
+    padding: 4px 0px;
+    font-size: 12px;
+    width:700px;
+    font-size:20px;
+}
+
+.textarea{
+    width:700px;
+    height:350px;
+    resize: none;
+    float:left;
+    margin:20px 0 0 5px;
+    font-size:20px;
+}
+
+.abstract{
+    width:200px;
+    height:350px;
+    resize: none;
+    float:left;
+    margin:20px 0 0 15px;
+    font-size:20px;
+}

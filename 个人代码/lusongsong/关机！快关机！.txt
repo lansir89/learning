@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/574.html" rel="bookmark">关机！快关机！</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5159"></nbcache><script type="text/javascript">$("#nbcache5159").attr("id","nbcache5159"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2326,5159,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年07月12日 21:57 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 一同事钻桌子下，不一会儿惨叫：“完了，我按错钮了，我按了所有电脑插线板的总开关！” 大家诧异：“但是我们的电脑还都亮着啊？！” 同事苦逼的声音从桌下传出：“我手还没抬起来呢，全办公室沉默两秒！！” “关机！！快关机！！！” “保存！！” “你挺住，挺住啊！！！”（via 大家都叫我老赵） <ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5159">0</ins></span><span class="diggDn">踩: <ins data-digg="5159">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/574.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

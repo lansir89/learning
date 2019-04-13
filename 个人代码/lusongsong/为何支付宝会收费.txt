@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/7845.html" rel="bookmark">为何支付宝会收费</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache7845"></nbcache><script type="text/javascript">$("#nbcache7845").attr("id","nbcache7845"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1340,7845,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2016年09月13日 08:45 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>记者问：为何支付宝会收费?答曰：</p><p>1、微信已经收了费了，不用担心客户跑到对手那里去;</p><p>2、手机支付用户群增长慢了，不需要担心新客户的体验受损;</p><p>3、不管我们是否骂，我们还是乖乖的用支付宝，已经离不开了;</p><p>4、钱会更多留在支付宝里面玩，购物、看电影。。。。对它们更好;</p><p>5、从贴补到挣钱了!</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="7845">2</ins></span><span class="diggDn">踩: <ins data-digg="7845">2</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/7845.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1260.html" rel="bookmark">创业者与投资人的故事</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5845"></nbcache><script type="text/javascript">$("#nbcache5845").attr("id","nbcache5845"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1942,5845,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2013年07月03日 16:21 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>问出租车司机，你挂着的嘀嘀打车还用吗？他说出租车调价后就再也没用过。这件事情告诉我们，<a title="创业" href="http://lusongsong.com/tags/chuangye.html" target="_blank" class="keywordlink">创业</a>者融资时讲的是北京高峰打车难的故事，而投资人要想清楚打车难背后逻辑是什么。加价叫车的故事很美，但政府调高出租车价格也是分分钟的事情。（@两口论天下）</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5845">0</ins></span><span class="diggDn">踩: <ins data-digg="5845">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1260.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

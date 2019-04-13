@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/7887.html" rel="bookmark">直播的热潮快结束了</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache7887"></nbcache><script type="text/javascript">$("#nbcache7887").attr("id","nbcache7887"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1552,7887,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2016年09月24日 09:23 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>直播的热潮也快结束了，想想就知道，哪里那么多人看直播呢，上百个直播平台，大部分一个玩法：让网红经纪公司充钱，然后再以充一万赠送一万的方式返还虚拟币，网红经纪公司利用僵尸给直播的网红们打赏，直播平台再通过分账的方式把钱还给网红经纪公司，利用这种方式做大流水，给投资人看，耍猴呢?@鲁振旺</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="7887">4</ins></span><span class="diggDn">踩: <ins data-digg="7887">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/7887.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

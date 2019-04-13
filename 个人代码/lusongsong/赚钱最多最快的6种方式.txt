@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/712.html" rel="bookmark">赚钱最多最快的6种方式</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5297"></nbcache><script type="text/javascript">$("#nbcache5297").attr("id","nbcache5297"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1951,5297,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年09月23日 20:37 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 赚钱最多最快的6种方式：①印钱，这叫货币发行；②让挣钱的人给你交钱，这叫纳税；③让花钱的人给你交钱，这也叫纳税；④把别人的钱集中起来你花，这叫财政；⑤想挣钱的人须经你许可才能挣钱，这叫牌照；⑥过路人必须留下买路钱，这叫收费；⑦不按以上方式玩的靠边站、抓起来，这叫政策法规。（那谁谁）<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5297">0</ins></span><span class="diggDn">踩: <ins data-digg="5297">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/712.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

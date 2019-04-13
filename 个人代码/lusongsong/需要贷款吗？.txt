@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/7219.html" rel="bookmark">需要贷款吗？</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache7219"></nbcache><script type="text/javascript">$("#nbcache7219").attr("id","nbcache7219"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1802,7219,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2016年04月09日 00:07 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>刚刚接到一个电话： 对方问我需不需要贷款？我说要…………对方很高兴问：要多少？我 说：500万！……他 问：有抵押物吗？我 答：有。 对方：哪里的楼？ 答：天安门城楼……… 对方问：你是什么人？我回答：共产主义接班人。对方立刻挂机！</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="7219">14</ins></span><span class="diggDn">踩: <ins data-digg="7219">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/7219.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

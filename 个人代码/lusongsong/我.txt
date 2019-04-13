@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/170.html" rel="bookmark">我</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4755"></nbcache><script type="text/javascript">$("#nbcache4755").attr("id","nbcache4755"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1537,4755,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2011年12月13日 17:30 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>一美国仔居然和我辩论说英语比中文难！你妹的！就拿一个“我”字来说。男的可以用爷，女的用老娘，皇帝用朕孤，皇后用哀家，百姓用鄙人，老人用老夫，青年用小生，和尚用贫僧，道士用贫道，粗人用俺咱，文人用小可，豪放可以称洒家，婉约可以叫不才，对上称在下，对下称本座，平民称草民.你们就一个I，拽个什么？</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4755">0</ins></span><span class="diggDn">踩: <ins data-digg="4755">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/170.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

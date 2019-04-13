@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/1541.html" rel="bookmark">年终福利</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache6126"></nbcache><script type="text/javascript">$("#nbcache6126").attr("id","nbcache6126"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2144,6126,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2014年01月21日 09:22 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>经权威媒体调查，今年各大机关单位年终所发福利五花八门，有发个屁的，有发个锤子的，有发个毛的，有发个毛线的，更有甚者发个妹的，奢侈至极！有的机关福利还可以，发个球！更有甚者，记者问某处长：你单位发的啥？其望望天喃喃道：发个鸟～～～</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="6126">2</ins></span><span class="diggDn">踩: <ins data-digg="6126">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/1541.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

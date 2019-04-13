@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/162.html" rel="bookmark">不要使用软件群发</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache4747"></nbcache><script type="text/javascript">$("#nbcache4747").attr("id","nbcache4747"+nbcacheviewtemp);Nobird_Cache_AddViewNums(2177,4747,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2011年12月08日 22:30 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>不要因为看到别人使用软件群发外链，没有被降权，反而排名上涨，就使用软件群发外链。就像现实社会中，不是所有的强奸犯都被警察抓走了。不要说别人使用软件群发外链有技巧，难道我们还要学强奸犯强奸的技巧呢？</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="4747">2</ins></span><span class="diggDn">踩: <ins data-digg="4747">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/162.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

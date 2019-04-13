@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/552.html" rel="bookmark">互联网之笑傲江湖</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache5137"></nbcache><script type="text/javascript">$("#nbcache5137").attr("id","nbcache5137"+nbcacheviewtemp);Nobird_Cache_AddViewNums(1909,5137,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2012年06月29日 09:51 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> 1）阿里系：华山派，没别理由，因为风清扬；2）腾讯系：嵩山派，野心大，武功实力高人一等；3）<a title="百度" href="http://lusongsong.com/tags/baidu.html" target="_blank" class="keywordlink">百度</a>系:泰山派，只有一门手艺啊；4）网易系：恒山派，太诡异了；5）搜狐系:衡山派，除了老大都跑了；6）新浪系:少林派；7）盛大系:武当派；8）奇虎系:魔教，不解释。@管鹏<ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="5137">0</ins></span><span class="diggDn">踩: <ins data-digg="5137">0</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/552.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>

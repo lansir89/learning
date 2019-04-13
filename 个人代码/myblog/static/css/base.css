@@ -1,0 +1,12 @@
+.body_tmp{
+    height:100%;
+    position:relative;
+}
+
+.footer{
+    text-align:center;
+    color: #aaa;
+    font-size:16px;
+    height:30px;
+    margin-top:-40px;
+}

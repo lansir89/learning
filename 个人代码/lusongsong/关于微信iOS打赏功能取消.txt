@@ -1,0 +1,12 @@
+<dl class="post-content" id="post-1445"><div class="post-title"> <h1><a href="http://lusongsong.com/yulu/t/8758.html" rel="bookmark">关于微信iOS打赏功能取消</a></h1> <h6><a href="#comment"><span class="commentViewNums"><script>var nbcacheviewtemp=Math.floor(Math.random()*9999);</script><nbcache id="nbcache8758"></nbcache><script type="text/javascript">$("#nbcache8758").attr("id","nbcache8758"+nbcacheviewtemp);Nobird_Cache_AddViewNums(673,8758,nbcacheviewtemp)</script></span></a> 人参与 | 时间：2017年04月27日 14:36 <div id="ckepop"></div></h6> </div> <div class="clear"></div> <dd class="con"> <p>微信iOS打赏功能取消 霸道的腾讯败于苹果的傲慢</p><p>苹果：爱玩玩，不完滚。</p><p>腾讯：这是我的词啊!</p><ins class="kandyDiggLog"><span class="diggUp">顶: <ins data-digg="8758">3</ins></span><span class="diggDn">踩: <ins data-digg="8758">2</ins></span></ins> <p id="comment">来源：<a rel="author" href="http://lusongsong.com/yulu/t/8758.html" title="卢松松博客">卢松松博客</a>，欢迎分享，（QQ/微信：13340454）</p> <div id="wenad"> <center> <script>
+(function() {
+    var s = "_" + Math.random().toString(36).slice(2);
+    document.write('<div id="' + s + '"></div>');
+    (window.slotbydup=window.slotbydup || []).push({
+        id: '2398783',
+        container: s,
+        size: '336,280',
+        display: 'inlay-fix'
+    });
+})();
+</script></center> </div> </dd> </dl>
